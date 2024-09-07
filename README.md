@@ -1,10 +1,9 @@
 # Write-Jupyter-Notebook-Hello-World-using-Dev-Container-and-Dockerfile-with-python-3.12-slim in VS CODE
 This will create a working environment for Jupyter Notebooks using Python 3.12-slim within a dev container. Code was generated through ChapGPT
 
-Objective: Write Jupyter Notebook Hello World! using Dev Container and Dockerfile with python 3.12-slim.
-Use vs Code for folder & file creation.
+## Prompt: Write Jupyter Notebook Hello World! using Dev Container and Dockerfile with python 3.12-slim, Use vs Code for folder & file creation.
 
-ChatGPT's Response: Here’s a step-by-step guide to create a Jupyter Notebook Hello World! project using a Dev Container with Dockerfile and Python 3.12-slim in VS Code:
+### ChatGPT's Response: Here’s a step-by-step guide to create a Jupyter Notebook Hello World! project using a Dev Container with Dockerfile and Python 3.12-slim in VS Code:
 
 ### 1. Set Up VS Code
 1. Install *VS Code* from [here](https://code.visualstudio.com/).
